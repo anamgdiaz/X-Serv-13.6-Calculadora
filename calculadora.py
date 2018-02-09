@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #ANA MARIA GONZALEZ DIAZ
-#-*-coding=utf-8-*-
+#-*-coding: ascii*-
 
 import sys
 
